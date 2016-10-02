@@ -1,0 +1,198 @@
+Pozione
+Pozione+
+Granpozione
+Granpozione+
+Extrapozione
+Megapozione
+Coda di Fenice
+Megafenice
+Elisir
+Megalisir
+Antidoto
+Ago Dorato
+Collirio
+Erba dell'Eco
+Acquasanta
+Panacea
+Panacea+
+Med dell'Eroe ß
+Med dell'Eroe
+Med del Mago ß
+Med del Mago
+Gemma Shell
+Gemma Protect
+Gemma Aura
+Gemma Death
+Gemma Holy
+Gemma Flare
+Gemma Meteor
+Gemma Ultima
+Erba Ghisal
+Piuma di Fenice
+Superamico
+Tenda
+Cuccia
+Cottage
+Pozione G
+Granpozione G
+Megapozione G
+Rivitalizzatore G
+Carta d'Identità
+Smemorerba
+Vol HP
+Vol forza
+Vol resistenza
+Vol forza mag
+Vol spirito
+Vol velocità
+Vol fortuna
+Amuleto di Kuzna
+Vol attacco
+Vol difesa
+Vol attacco ST
+Vol difesa ST
+Stele di Rosetta
+Libro di Magie
+Libro sui GF
+Libro di Scienze
+Libro Oggetti
+Anima del Baro
+Anello Ossidato
+Anima di Fenice
+Kit di Soccorso
+Anima di Piros
+Pentola Magica
+Amuleto Moghy
+Tubo di Ferro
+Scheggia Stella
+Biocristallo
+Anima di Samasa
+Abito Eroico
+Abito Fatato
+Armatura d'Oro
+Armatura di Leda
+Anello Sacro
+Anello di Titano
+Anello di Gaia
+Lista della Forza
+Lista dei Poteri
+Lista Magica
+Guscio di Sauro
+Orialco
+Adamantio
+Bracciale di Rah
+Bracciale di Aya
+Bracciale Magico
+Corona Ossidata
+Corona di Yupu
+Corona Reale
+Motore Jet
+Reattore
+Cortina Lunare
+Cortina di Ferro
+Cortina Luminosa
+Acceleratore
+Arte del Monaco
+Arte Guerriera
+Arte del Medico
+Set 100 Aculei
+Triostella
+Fiocco
+Colpi Normali
+Colpi di Piombo
+Colpi Accecanti
+Incendiari
+Granate
+Colpi Veloci
+Colpi Perforanti
+Colpi Virbanti
+Quarzo Magico
+Ametista Magica
+Giada Magica
+Antenna di Ochu
+Acqua Torbida
+Piuma Cokatoris
+Polvere Zombie
+Scarpe Veloci
+Artiglio Affilato
+Vite
+Lama da Sega
+Lama Mesmerize
+Zanna Vampira
+Pietra dell'Ira
+Spada Maledetta
+Sonnifero
+Anello Vitale
+Zanna di Grifone
+Ragnatela
+Scheggia Corallo
+Artiglio Malefico
+Buco Nero
+Idrocristallo
+Missile
+Fluido Misterioso
+Mitra
+Zanna di Drago
+Antenna di Molboro
+Polvere di Vento
+Cannone Laser
+Sistema Zeta
+Generatore
+Dagmata
+Scheggia Piros
+Zanna Rossa
+Vento Antartico
+Vento Artico
+Dinamo
+Piuma del Vento
+Zanna Velenosa
+Palla di Ferro
+Pietra Lunare
+Osso di Drago
+Girandola
+Pelle di Drago
+Pinna di Pesce
+Squama di Drago
+Mutolicina
+Polvere Velenosa
+Anima dei Morti
+Coltello da Chef
+Ago di Cactus
+Monolite
+Carburante
+"La Mia Vicina"
+Lettera di Edea
+Collare per Chocobo
+Collare
+Anello di Salem
+Lampada Magica
+HP UP
+FRZ UP
+RES UP
+MAG UP
+SPR UP
+VEL UP
+FORT UP
+Love Love G
+Armi Mese n. 1
+Armi Mese n. 2
+Armi Mese n. 3
+Armi Mese n. 4
+Armi Mese n. 5
+Armi Mese n. 6
+Armi Mese n. 7
+La Guerra 001
+La Guerra 002
+La Guerra 003
+La Guerra 004
+La Guerra 005
+Il Cane n.1
+Il Cane n.2
+Il Cane n.3
+Il Cane n.4
+Il Cane n.5
+Il Cane n.6
+L'Occulto I
+L'Occulto II
+L'Occulto III
+L'Occulto IV

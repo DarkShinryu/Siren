@@ -1,0 +1,198 @@
+Poción
+Poción+
+Ultrapoción
+Ultrapoción+
+Poción X
+Omnipoción
+Cola de Fénix
+Omnifénix
+Elixir
+Superelixir
+Antídoto
+Aguja de oro
+Colirio
+Hierba del eco
+Agua bendita
+Panacea
+Panacea+
+Sal heroica beta
+Sal heroica
+Sal sagrada beta
+Sal sagrada
+Piedra Coraza
+Piedra Escudo
+Piedra Aura
+Piedra Muerte
+Piedra Sanctus
+Piedra Fulgor
+Piedra Meteo
+Piedra Artema
+Verdura Gysahl
+Ala de Fénix
+Señal de lealtad
+Tienda de lona
+Caseta
+Chalé
+Poción G.F.
+Ultrapoción G.F.
+Omnipoción G.F.
+Resucitador G.F.
+Cáliz bautismal
+Sal amnésica
+Libro de la VIT
+Libro de la FRZ
+Libro de la RST
+Libro del PM
+Libro del ESP
+Libro de la RAP
+Libro de la SUE
+Égida
+Papiro atq. ELM
+Papiro def. ELM
+Papiro atq. EST
+Papiro def. EST
+Piedra Rosetta
+Libro de magia
+Libro de los G.F.
+Libro extracción
+Libro objetos
+Alma lúdica
+Anillo de cura
+Anillo Fénix
+Estetoscopio
+Alma de Bom
+Olla de hambre
+Amuleto Mogu
+Tubo de hierro
+Polvo estelar
+Energía pura
+Alma de Tábata
+Malla de vida
+Malla de plata
+Coraza de oro
+Coraza diamante
+Anillo de Enoc
+Anillo de gigante
+Anillo de Gaia
+Cinto de fuerza
+Brazal de poder
+Brazal de Titán
+Caparazón
+Orichalcum
+Adamantino
+Tiara mágica
+Corona de Juno
+Corona real
+Manilla de Lun
+Manilla de Mitra
+Manilla de Osiris
+Motor de jet
+Motor de cohete
+Manto de luna
+Manto de hierro
+Manto de luz
+Acelerador
+Alma monacal
+Alma guerrera
+Diploma médico
+Cien espinas
+Tres estrellas
+Cinta
+Bala común
+Bala expansiva
+Bala negra
+Bala pírica
+Bala de poder
+Bala rápida
+Bala antitanque
+Bala iónica
+Grava mágica
+Piedra mágica
+Roca mágica
+Antena de Ochú
+Agua de vida
+Ala de Cocatoris
+Polvo de zombi
+Botines raudos
+Uña puntiaguda
+Tornillo
+Hoja de sierra
+Hoja de Unipladio
+Diente sangriento
+Piedra del vigor
+Sable traidor
+Polvo somnífero
+Anillo de vida
+Diente de dragón
+Tela de araña
+Trozo de coral
+Uña maldita
+Agujero negro
+Agua cristal
+Misil
+Fluido misterioso
+Bioametralladora
+Pelo de dragón
+Tentáculo Molbol
+Rumor del viento
+Cañón láser
+Blindaje
+Generador
+Materia oscura
+Trozo de Bom
+Colmillo rojo
+Aire antártico
+Aire ártico
+Piedra dínamo
+Pluma
+Colmillo venenoso
+Bola de hierro
+Piedra lunar
+Hueso jurásico
+Molinete
+Piel de dragón
+Aleta de pez
+Uña de dragón
+Polvo del silencio
+Polvo venenoso
+Alma en pena
+Cuchilla
+Espina de cactus
+Piedra del sabio
+Combustible
+"Mil Novias"
+Carta de Edea
+Carné chocobo
+Carné Mascota
+Anillo de Salomón
+Lámpara mágica
+Dosis de VIT
+Dosis de FRZ
+Dosis de RST
+Dosis de PM
+Dosis de ESP
+Dosis de RAP
+Dosis de SUE
+Anillo nupcial
+"Armas", núm. 1
+"Armas" Marzo
+"Armas" Abril
+"Armas" Mayo
+"Armas" Junio
+"Armas" Julio
+"Armas" Agosto
+"Karateka" 001
+"Karateka" 002
+"Karateka" 003
+"Karateka" 004
+"Karateka" 005
+"Hocicos", N. 1
+"Hocicos", N. 2
+"Hocicos", N. 3
+"Hocicos", N. 4
+"Hocicos", N. 5
+"Hocicos", N. 6
+"Expediente F" 1
+"Expediente F" 2
+"Expediente F" 3
+"Expediente F" 4

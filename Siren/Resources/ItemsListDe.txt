@@ -1,0 +1,198 @@
+Potion
+Potion-2
+Hi-Potion
+Hi-Potion-2
+X-Potion
+Mega-Potion
+Phönix-Feder
+Mega-Phönix
+Elixir
+Final-Elixir
+Gegengift
+Goldene Nadel
+Augentropfen
+Echo-Kraut
+Weihwasser
+Mega-Pille
+Mega-Pille-2
+Heldensaft
+Heldentrank
+Göttersaft
+Göttertrank
+Shell-Stein
+Protes-Stein
+Aura-Stein
+Todesstein
+Holy-Stein
+Flare-Stein
+Meteor-Stein
+Ultima-Stein
+Gizar-Kraut
+Phönix-Flügel
+Feuer-Siegel
+Zelt
+Stall
+Hütte
+G-Potion
+G-Hi-Potion
+G-Mega-Potion
+G-Returner
+Namensschild
+Vergißmeinnicht
+HP-Buch
+Stärke-Buch
+Körper-Buch
+Magie-Buch
+Geist-Buch
+Geschicks-Buch
+Glücks-Buch
+Agis-Talisman
+EL-Schwert
+EL-Schild
+ZU-Schwert
+ZU-Schild
+Rosetta-Stein
+Zauberbuch
+G.F.-Buch
+Draw-Buch
+Item-Buch
+Zockerseele
+Vita-Ring
+Seele des Phönix
+Verbandskasten
+Bomber-Seele
+Vielfraß-Faß
+Mog-Talisman
+Eisenrohr
+Sternensplitter
+Energiekristall
+Beschwörerseele
+Vita-Rüstung
+Silberrüstung
+Goldrüstung
+Platin-Rüstung
+Phönix-Ring
+Giga-Ring
+Gaia-Ring
+Kraftband
+Kraftreif
+Hyper-Reif
+Kröten-Panzer
+Orihalcon
+Adamantine
+Runen-Reif
+Force-Reif
+Teufels-Reif
+Diadem
+Hypno-Krone
+Königskrone
+Düsenantrieb
+Raketenantrieb
+Mondschleier
+Eisenvorhang
+Lichtschleier
+Beschleuniger
+Lehre der Mönche
+Lehre der Ritter
+Lehre der Ärzte
+100 Stacheln
+Dreigestirn
+Schleife
+N-Munition
+Splitter-Munition
+Teufelsmunition
+Flammen-Munition
+Silber-Munition
+MG-Munition
+Stahl-Munition
+Pulsar-Munition
+Zaubersplitter
+Zauberstein
+Magischer Stein
+Küßchen-Fühler
+Heilwasser
+Cockatrice-Feder
+Zombie-Puder
+Sprintschuhe
+Spitze Kralle
+Schraube
+Sägezahn
+Mesmerize-Klinge
+Vampir-Zahn
+Kampfbrocken
+Verräterklinge
+Schlafpuder
+Lebens-Ring
+Drachenzahn
+Spinnennetz
+Korallensplitter
+Kralle des Fluchs
+Schwarzes Loch
+Wasserkristall
+Rakete
+???-Flüssigkeit
+Kiefer-MG
+Feuerzahn
+Morbol-Fühler
+Windgeflüster
+Laser-Kanone
+Schutzschilde
+V96-Motor
+Anti-Materie
+Bomber-Splitter
+Roter Stoßzahn
+Antarktis-Wind
+Polarwind
+Dynamo-Stein
+Windfedern
+Giftzahn
+Eisenkugel
+Mondstein
+Dino-Knochen
+Windmühle
+Schlangenhaut
+Fischflosse
+Drachenschuppe
+Flüsterpuder
+Giftpuder
+Seele der Toten
+Küchenmesser
+Kaktus-Stachel
+Stein der Weisen
+Treibstoff
+Girly Times
+Brief der Hexe
+Chocobo-ID
+Hunde-ID
+Ring des Salomon
+Wunderlampe
+HP-Plus
+Stärke-Plus
+Körper-Plus
+Magie-Plus
+Geist-Plus
+Geschick-Plus
+Glück-Plus
+LoveLove-G
+Waffen 1.Ausg.
+Waffen März
+Waffen April
+Waffen Mai
+Waffen Juni
+Waffen Juli
+Waffen August
+Beat'em Up 001
+Beat'em Up 002
+Beat'em Up 003
+Beat'em Up 004
+Beat'em Up 005
+Mein Hund Nr.1
+Mein Hund Nr.2
+Mein Hund Nr.3
+Mein Hund Nr.4
+Mein Hund Nr.5
+Mein Hund Nr.6
+Okkult-Fan I
+Okkult-Fan II
+Okkult-Fan III
+Okkult-Fan IV

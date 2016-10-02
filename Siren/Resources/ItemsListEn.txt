@@ -1,0 +1,198 @@
+Potion
+Potion+
+Hi-Potion
+Hi-Potion+
+X-Potion
+Mega-Potion
+Phoenix Down
+Mega Phoenix
+Elixir
+Megalixir
+Antidote
+Soft
+Eye Drops
+Echo Screen
+Holy Water
+Remedy
+Remedy+
+Hero-Trial
+Hero
+Holy War-Trial
+Holy War
+Shell Stone
+Protect Stone
+Aura Stone
+Death Stone
+Holy Stone
+Flare Stone
+Meteor Stone
+Ultima Stone
+Gysahl Greens
+Phoenix Pinion
+Friendship
+Tent
+Pet House
+Cottage
+G-Potion
+G-Hi-Potion
+G-Mega-Potion
+G-Returner
+Rename Card
+Amnesia Greens
+HP-J Scroll
+Str-J Scroll
+Vit-J Scroll
+Mag-J Scroll
+Spr-J Scroll
+Spd-J Scroll
+Luck-J Scroll
+Aegis Amulet
+Elem Atk
+Elem Guard
+Status Atk
+Status Guard
+Rosetta Stone
+Magic Scroll
+GF Scroll
+Draw Scroll
+Item Scroll
+Gambler Spirit
+Healing Ring
+Phoenix Spirit
+Med Kit
+Bomb Spirit
+Hungry Cookpot
+Mog's Amulet
+Steel Pipe
+Star Fragment
+Energy Crystal
+Samantha Soul
+Healing Mail
+Silver Mail
+Gold Armor
+Diamod Armor
+Regen Ring
+Giant's Ring
+Gaea's Ring
+Strength Love
+Power Wrist
+Hyper Wrist
+Turtle Shell
+Orihalcon
+Adamantine
+Rune Armlet
+Force Armlet
+Magic Armlet
+Circlet
+Hypno Crown
+Royal Crown
+Jet Engine
+Rocket Engine
+Moon Curtain
+Steel Curtain
+Glow Curtain
+Accelerator
+Monk's Code
+Knight's Code
+Doc's Code
+Hundred Needles
+Three Stars
+Ribbon
+Normal Ammo
+Shotgun Ammo
+Dark Ammo
+Fire Ammo
+Demolition Ammo
+Fast Ammo
+AP Ammo
+Pulse Ammo
+M-Stone Piece
+Magic Stone
+Wizard Stone
+Ochu Tentacle
+Healing Water
+Cockatrice Pinion
+Zombie Powder
+Lightweight
+Sharp Spike
+Screw
+Saw Blade
+Mesmerize Blade
+Vampire Fang
+Fury Fragment
+Betrayal Sword
+Sleep Powder
+Life Ring
+Dragon Fang
+Spider Web
+Coral Fragment
+Curse Spike
+Black Hole
+Water Crystal
+Missile
+Mystery Fluid
+Running Fire
+Inferno Fang
+Malboro Tentacle
+Whisper
+Laser Cannon
+Barrier
+Power Generator
+Dark Matter
+Bomb Fragment
+Red Fang
+Arctic Wind
+North Wind
+Dynamo Stone
+Shear Feather
+Venom Fang
+Steel Orb
+Moon Stone
+Dino Bone
+Windmill
+Dragon Skin
+Fish Fin
+Dragon Fin
+Silence Powder
+Poison Powder
+Dead Spirit
+Chef's Knife
+Cactus Thorn
+Shaman Stone
+Fuel
+Girl Next Door
+Sorceress' Letter
+Chocobo's Tag
+Pet Nametag
+Solomon Ring
+Magical Lamp
+Hp Up
+Str Up
+Vit Up
+Mag Up
+Spr Up
+Spd Up
+Luck Up
+LuvLuv G
+Weapons Mon 1st
+Weapons Mon Mar
+Weapons Mon Apr
+Weapons Mon May
+Weapons Mon Jun
+Weapons Mon Jul
+Weapons Mon Aug
+Combat King 001
+Combat King 002
+Combat King 003
+Combat King 004
+Combat King 005
+Pet Pals Vol.1
+Pet Pals Vol.2
+Pet Pals Vol.3
+Pet Pals Vol.4
+Pet Pals Vol.5
+Pet Pals Vol.6
+Occult Fan I
+Occult Fan II
+Occult Fan III
+Occult Fan IV

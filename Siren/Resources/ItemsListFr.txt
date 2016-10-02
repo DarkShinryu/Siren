@@ -1,0 +1,198 @@
+Potion
+Potion+
+Hypra-Potion
+Maxi potion
+Potion totale
+Méga potion
+MT-Psy
+Maxi MT-Psy
+Elixir
+Mégalixir
+Antidote
+Défijeur
+Lasik
+Bocca
+Eau bénite
+Remède
+Remède +
+1-20-Syble
+Invulnérable
+1-destructible
+Croisade
+Roc cosse
+Roc carapace
+Roc d'Aura
+Roc mortel
+Roc sacré
+Roc flamboyant
+Roc Météore
+Roc Ultima
+ChocoLégume
+Golgotha
+Pen Pal
+Red Kross
+Zoologie
+Saindoux
+Potion GF
+Potion GF +
+Mégapotion GF
+Sel marin
+Carte baptême
+Décapaciteur
+Livret HP-A
+Livret Vgr-A
+Livret Dfs-A
+Livret Mgi-A
+Livret Psy-A
+Livret Vts-A
+Livret Chc-A
+Shadow
+Assaut Elé
+Antichoc Elé
+Assaut Mtl
+Antichoc Mtl
+Roc Rosette
+GrimoMagic
+GrimoForce
+GrimoVole
+GrimObjets
+Vegas Feel
+Sanatorium
+MétemPsy
+Bandage
+Nova
+Régime
+Kikkou Mania
+Samâdhi
+Zodiaque
+Nuclide
+Sacrum
+Billet
+Vierge
+Armure d'or
+Cuirasse
+Anneau Récup
+Alliance
+Bague Gaêa
+Vitamine
+Sagou
+Sagette
+Coquille
+Halcyon
+Adamantine
+Obole
+Tao
+Lacan
+Garcinord
+Merlin
+Magax
+Injection
+SuperSonic
+Pied de biche
+Ecaille
+Tasmania
+Speedy
+Réactor
+Protector
+Pasteur
+Manivelle
+Trilogie
+Freud
+Balles normales
+Mitra-balles
+Dark balles
+Balles foudre
+Balles tornade
+Balles véloces
+Balles anti-char
+Balles Pulsar
+Caillou magik
+Roc initiatique
+Roc féerique
+Tentacule
+Onde bénite
+Plumage
+Poudre Zombie
+Bottes de 7km
+9 inch nail
+Enclume
+Cimeterre
+Corne
+Sanguine
+EuFurysant
+Epée trompeuse
+Poudre Morphée
+Anneau de vie
+Lochness
+U-Boat
+Etoile
+Weirdo
+Gen-X
+Fluide
+M-Double
+House
+Chevrotine
+Canicule
+Germe
+Rhône
+Rayon
+Vierge
+V-Choc
+H-Espace
+Hot Rock
+Molaire
+Blizzard
+Nunatak
+Gemma Luce
+Aigrette
+Canine
+Globe d'acier
+Roc lunaire
+Fémur
+Aquilon
+Derme
+Zygène
+Shark
+Poudre Aphasie
+Venin
+Revenant
+Désosseur
+Kaktos
+Roc Shaman
+Essence
+Comtesse Cochon
+Missive d'Edea
+Collier Chocobo
+Collier chien
+Bague du chef
+Aladore
+Bonus Hp
+Bonus Vgr
+Bonus Dfs
+Bonus Mgi
+Bonus Psy
+Bonus Vts
+Bonus Chc
+Amour bestial
+F.F.F. Fév
+F.F.F. Mar
+F.F.F. Avr
+F.F.F. Mai
+F.F.F. Jun
+F.F.F. Jul
+F.F.F. Aoû
+Baston mag 1
+Baston mag 2
+Baston mag 3
+Baston mag 4
+Baston mag 5
+L'A D bêtes 1
+L'A D bêtes 2
+L'A D bêtes 3
+L'A D bêtes 4
+L'A D bêtes 5
+L'A D bêtes 6
+Occult Fan I
+Occult Fan II
+Occult Fan III
+Occult Fan IV
