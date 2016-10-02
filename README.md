@@ -1,7 +1,7 @@
 # Siren
 Final Fantasy VIII price.bin editor
 
-<img src="(https://cloud.githubusercontent.com/assets/5892410/19022992/084a8e60-88e4-11e6-9307-461bc264e039.png" width="30%"></img>
+![alt tag](https://cloud.githubusercontent.com/assets/5892410/19022992/084a8e60-88e4-11e6-9307-461bc264e039.png)
 
 ## Requirements
 - .NET Framework 4.6
